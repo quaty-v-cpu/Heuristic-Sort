@@ -2,7 +2,7 @@
 
 Heuristisches Sortierverfahren
 
-A fast sorting algorithm that is 30 to 60 times faster than InsertSort for large lists
+Ein schnelles Sortierverfahren besonders für große Listen, wo es 30 bis 60 Mal schneller ist, als InsertSort.
 
 
 Ich bin auf die Idee gekommen, eine lineare Funktion (y = k * x + b) fürs Sortieren von dynamischen Arrays zu nutzen. Wobei y ist der gesuchter ungefähre Index vom Element x.
